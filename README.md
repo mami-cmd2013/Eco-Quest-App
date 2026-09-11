@@ -1,49 +1,46 @@
-# 🌿 EcoQuest – Günlük İklim Görevleri Platformu 🌍
+<div align="center">
 
-> **"Küçük Günlük Alışkanlıklar, Büyük Çevresel Etki."**  
-> EcoQuest, bireysel iklim kaygısını somut eylemlere dönüştüren; günlük ekolojik görevler, gerçek zamanlı CO₂ tasarruf analizi ve oyunlaştırılmış puan sistemi sunan etkileşimli bir web uygulamasıdır.
+# 🌿 EcoQuest – Daily Climate Action Platform
 
----
+**"Küçük Günlük Alışkanlıklar, Büyük Çevresel Etki."**
 
-## 📌 Problem ve Çözüm Yaklaşımı
+[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Framework](https://img.shields.io/badge/framework-Flask%203.0-green.svg)](https://flask.palletsprojects.org/)
+[![License](https://img.shields.io/badge/license-MIT-orange.svg)]()
+[![Hackathon](https://img.shields.io/badge/Kodland-Hackathon%202026-purple.svg)]()
 
-### 🔴 Problem
-* **Eylemsizlik ve Çaresizlik Hissi:** İnsanlar iklim krizinin farkında olsa da bireysel olarak ne yapabileceklerini bilmiyor veya tek başlarına bir şeyi değiştiremeyeceklerini düşünüyor.
-* **Soyut Veriler:** Karbon emisyonu ve iklim verilerinin günlük hayattan uzak metriklerle sunulması farkındalık oluşturmayı zorlaştırıyor.
+*Ekolojik kaygıyı somut eylemlere dönüştüren oyunlaştırılmış, etkileşimli iklim aksiyonu web uygulaması.*
 
-### 🟢 Çözümümüz (EcoQuest)
-EcoQuest, küresel iklim hedefleri ile kişisel sorumluluk arasında eğlenceli bir köprü kurar:
-* **Günlük Eko-Görevler:** Toplu taşıma kullanma, tek kullanımlık plastikleri reddetme, cihazların fişini çekme gibi uygulanabilir görevler.
-* **Oyunlaştırma (Gamification):** Tamamlanan her görev için XP puanı kazanma ve seviye atlama.
-* **Somut CO₂ Analizi:** Yapılan her görevin doğaya sağladığı karbondioksit tasarrufunun anlık hesaplanması.
+</div>
 
 ---
 
-## 🛠️ Teknolojiler ve Mimari
+## 📌 Proje Özeti ve Problem Bildirimi
 
-Projemiz modern web standartlarına ve modüler Python yapısına dayanmaktadır:
+### 🔴 Problem: İklim Eylemsizliği ve Soyutlama
+1. **Çaresizlik Hissi (Eco-Anxiety):** Dünya genelinde gençlerin büyük bir kısmı iklim krizinin farkındadır ancak bireysel eylemlerinin küresel ölçekte hiçbir şeyi değiştiremeyeceği duygusuna kapılarak eylemsizleşmektedir.
+2. **Soyut Metrikler:** İklim krizi raporları ve karbon emisyonu verileri genelde *"milyon ton karbondioksit"* veya *"1.5°C küresel ısınma eşiği"* gibi günlük hayattan son derece uzak ve anlaşılması güç kavramlarla sunulmaktadır.
+3. **Geri Bildirim Eksikliği:** Bireyler günlük hayatta çevreye duyarlı bir seçim yaptıklarında (örneğin plastik şişe almadıklarında) bunun doğaya tam olarak ne kadar katkı sağladığını anlık olarak görememektedir.
 
-* **Arka Yüz (Backend):** Python 3.10+ & Flask Framework
-* **Ön Yüz (Frontend):** HTML5, Modern CSS3 (Karanlık Mod / Yeşil Doğa Teması), JavaScript
-* **Sürüm Kontrolü:** Git & GitHub
+### 🟢 Çözümümüz: EcoQuest
+EcoQuest, küresel iklim hedefleri ile bireysel günlük alışkanlıklar arasında etkileşimli bir köprü kurar:
+* **Günlük Eko-Görevler:** Ulaşım, atık, enerji ve beslenme kategorilerinde uygulanması kolay mikro görevler sunar.
+* **Oyunlaştırma (Gamification):** Tamamlanan her görev için kullanıcıya XP (Deneyim Puanı) ve rozetler kazandırarak alışkanlık kazanımını sürdürülebilir kılar.
+* **Gerçek Zamanlı CO₂ Tasarrufu:** Yapılan her eylemin engellediği tahmini karbondioksit miktarını anlık olarak hesaplar ve görselleştirir.
 
 ---
 
 ## ✨ Öne Çıkan Özellikler
 
-| Özellik | Açıklama |
-| :--- | :--- |
-| 📋 **Dinamik Görev Paneli** | Ulaşım, enerji, atık ve beslenme kategorilerinde günlük görevler. |
-| 📊 **CO₂ Tasarruf Sayacı** | Tamamlanan görevlerin engellediği tahmini karbon emisyonu. |
-| 🏆 **XP ve Puan Sistemi** | Ekolojik farkındalığı eğlenceli bir oyuna dönüştüren puanlama. |
+| Özellik | Açıklama | Hedeflenen Çevresel Etki |
+| :--- | :--- | :--- |
+| 📋 **Dinamik Görev Paneli** | Her gün yenilenen ve kolayca tamamlanabilen sürdürülebilirlik görevleri. | Bireysel davranım değişikliği ve farkındalık |
+| 📊 **CO₂ Tasarruf Analitiği** | Tamamlanan her görev sonrası anlık olarak güncellenen karbon engelleme metriği. | Ölçülebilir ve somut çevresel veri |
+| 🏆 **XP & Seviye Sistemi** | Görev tamamladıkça XP biriktirme ve ekolojik unvanlar kazanma. | Kullanıcı bağlılığı ve motivasyonu |
+| 🎨 **Modern Dark/Glass UI** | Şık, doğa odaklı ve göz yormayan karanlık mod arayüzü. | Yüksek kullanıcı deneyimi (UX) |
 
 ---
 
-## 🚀 Proje Kurulumu ve Çalıştırma
+## 🛠️ Teknik Mimari ve Sistem Tasarımı
 
-Yerel ortamda projeyi çalıştırmak için:
-
-1. **Depoyu Klonlayın:**
-   ```bash
-   git clone [https://github.com/mami-cmd2013/Eco-Quest-App.git](https://github.com/mami-cmd2013/Eco-Quest-App.git)
-   cd Eco-Quest-App
+Projemiz, modüler Python yapısı ve yüksek performanslı lightweight web mimarisi üzerine kurulmuştur:
