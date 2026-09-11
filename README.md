@@ -1,3 +1,5 @@
+![EcoQuest Banner](https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=1200&q=80)
+
 <div align="center">
 
 # 🌿 EcoQuest – Daily Climate Action Platform
@@ -40,7 +42,12 @@ EcoQuest, küresel iklim hedefleri ile bireysel günlük alışkanlıklar arası
 | 🎨 **Modern Dark/Glass UI** | Şık, doğa odaklı ve göz yormayan karanlık mod arayüzü. | Yüksek kullanıcı deneyimi (UX) |
 
 ---
+### 🏷️ Görev Kategorileri
 
+- 🚌 **Ulaşım:** ![Ulaşım](https://img.shields.io/badge/Kategori-Ulaşım-blue)
+- ⚡ **Enerji:** ![Enerji](https://img.shields.io/badge/Kategori-Enerji-yellow)
+- ♻️ **Atık:** ![Atık](https://img.shields.io/badge/Kategori-Atık-green)
+- 🥗 **Beslenme:** ![Beslenme](https://img.shields.io/badge/Kategori-Beslenme-orange)
 ## 🛠️ Teknik Mimari ve Sistem Tasarımı
 
 Projemiz, modüler Python yapısı ve yüksek performanslı lightweight web mimarisi üzerine kurulmuştur:
@@ -85,3 +92,27 @@ Projemiz, modüler Python yapısı ve yüksek performanslı lightweight web mima
 - 📊 [IPCC Bilimsel İklim Raporları](https://www.ipcc.ch/) – Dünya çapındaki en kapsamlı küresel ısınma veri analitiği.
 - 🍃 [TEMA Vakfı İklim Rehberi](https://www.tema.org.tr) – Türkiye'deki çevre sorunları ve bireysel eylem adımları.
 - 📉 [Global Carbon Atlas](http://www.globalcarbonatlas.org/) – Ülke ve birey bazlı küresel karbon emisyonu takip haritası.
+
+
+---
+
+## 🧩 İklim Farkındalığı Mini Testi
+
+Projemizi incelerken bilgilerinizi test edin:
+
+<details>
+<summary><b>1. Soru: Küresel ısınmaya en çok katkıda bulunan sera gazı hangisidir? (Cevap için tıklayın)</b></summary>
+<p><b>Cevap:</b> Karbondioksit ($CO_2$). Fosil yakıt kullanımı ve ormansızlaşma nedeniyle atmosferdeki oranı hızla artmaktadır.</p>
+</details>
+
+<details>
+<summary><b>2. Soru: "Hayalet Enerji" (Standby Power) nedir? (Cevap için tıklayın)</b></summary>
+<p><b>Cevap:</b> Elektronik cihazların kapalı olduğu halde prize takılıyken tüketmeye devam ettiği elektriktir. Fişleri çekmek yılda onlarca kilo $CO_2$ emisyonunu engeller.</p>
+</details>
+
+<details>
+<summary><b>3. Soru: Bireysel olarak karbon ayak izini azaltmanın en hızlı yolu nedir? (Cevap için tıklayın)</b></summary>
+<p><b>Cevap:</b> Özel araç yerine toplu taşıma/bisiklet kullanmak ve beslenmede bitkisel alternatiflere daha fazla yer vermektir.</p>
+</details>
+
+---
