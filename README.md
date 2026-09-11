@@ -44,3 +44,22 @@ EcoQuest, küresel iklim hedefleri ile bireysel günlük alışkanlıklar arası
 ## 🛠️ Teknik Mimari ve Sistem Tasarımı
 
 Projemiz, modüler Python yapısı ve yüksek performanslı lightweight web mimarisi üzerine kurulmuştur:
+
+
+
+---
+
+## 📚 Kaynaklar, Rehberler ve Materyaller
+
+### Projemin türü:
+> **Web Sitesi / Web Uygulaması (Flask + HTML/CSS/JS)**
+
+### Kullanacağım kütüphaneler:
+- **Flask:** Python tabanlı hafif web sunucusu ve mikro framework.
+- **Jinja2:** HTML sayfalarında dinamik veri gösterimi ve şablonlama motoru.
+
+### Faydalı referanslar:
+- [Flask Todo App GitHub Reference](https://github.com/topics/flask-todo) – Görev yönetimi ve listeleme mantığı için ilham verici açık kaynaklı Flask örnekleri.
+
+### Geliştirme sırasında bana yardımcı olacak rehber makaleler:
+- Flask'ta dinamik rotalar ve HTML şablonlarının nasıl bağlanacağını adım adım anlatan [Flask Web Development Tutorial](https://flask.palletsprojects.org/en/stable/tutorial/) rehberi.
