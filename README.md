@@ -63,3 +63,25 @@ Projemiz, modüler Python yapısı ve yüksek performanslı lightweight web mima
 
 ### Geliştirme sırasında bana yardımcı olacak rehber makaleler:
 - Flask'ta dinamik rotalar ve HTML şablonlarının nasıl bağlanacağını adım adım anlatan [Flask Web Development Tutorial](https://flask.palletsprojects.org/en/stable/tutorial/) rehberi.
+
+
+---
+
+## 📚 Kaynaklar, Rehberler ve Materyaller
+
+### Projemin türü:
+> **Web Sitesi / Web Uygulaması (Flask + HTML/CSS/JS)**
+
+### Kullanacağım kütüphaneler:
+- **[Flask Web Framework](https://flask.palletsprojects.org/):** Python tabanlı hafif web sunucusu ve uygulama çatısı.
+- **[Jinja2 Templating Engine](https://jinja.palletsprojects.org/):** HTML sayfalarında dinamik Python değişkenlerini işlemek için şablon motoru.
+
+### Faydalı referanslar:
+- [Flask Todo App Örnek Projeleri](https://github.com/topics/flask-todo) – Görev yönetimi ve dinamik listeleme mantığı için ilham veren açık kaynaklı Python depoları.
+- [Flask Documentation & Tutorials](https://flask.palletsprojects.org/en/stable/tutorial/) – Flask projesini sıfırdan kurma ve şablon bağlama resmi rehberi.
+
+### 🌍 İklim Değişikliği Hakkında Temel Kaynaklar ve Bilgilendirme:
+- 🌡️ [Birleşmiş Milletler İklim Eylemi Portal](https://www.un.org/en/climatechange) – İklim krizinin temelleri ve küresel eylem planları.
+- 📊 [IPCC Bilimsel İklim Raporları](https://www.ipcc.ch/) – Dünya çapındaki en kapsamlı küresel ısınma veri analitiği.
+- 🍃 [TEMA Vakfı İklim Rehberi](https://www.tema.org.tr) – Türkiye'deki çevre sorunları ve bireysel eylem adımları.
+- 📉 [Global Carbon Atlas](http://www.globalcarbonatlas.org/) – Ülke ve birey bazlı küresel karbon emisyonu takip haritası.
